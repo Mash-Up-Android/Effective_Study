@@ -13,9 +13,9 @@
 
 ```java
 public class JavaTest{
-		public String giveName() {
-				// ...
-		}
+    public String giveName() {
+        // ...
+    }
 }
 ```
 
@@ -25,9 +25,9 @@ public class JavaTest{
 
 ```java
 public class UserRepo {
-		public List<User> getUsers() {
-				// ...
-		}
+    public List<User> getUsers() {
+        // ...
+    }
 }
 ```
 
@@ -70,13 +70,13 @@ public class JavaClass {
 ```kotlin
 fun statedType() {
     val value: String = JavaClass().value
-    / ...
+    // ...
     println(value.length)
 }
 
 fun platformType() {
     val value = JavaClass().value
-	  // ...
+    // ...
     println(value.length)
 }
 ```
