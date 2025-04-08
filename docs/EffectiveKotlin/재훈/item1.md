@@ -64,10 +64,10 @@ print(list) // [1, 2, 3, 4]
 var name: String = "Marchin"
 var surname: String = "Moskala"
 val fulName
-		get() = "$name $surname"
+    get() = "$name $surname"
 
 fun main() {
-		println(fullName) // Marcin Moskala
+    println(fullName) // Marcin Moskala
     name = "Maja"
     println(fullName) // Maja Moskala
 }
@@ -83,11 +83,11 @@ var은 **게터**와 **세터**를 모두 제공하지만, val은 변경 불가�
 
 ```kotlin
 interface Element {
-		val active: Boolean
+   val active: Boolean
 }
 
 class ActualElement: Element {
-		override var active: Boolean = false
+   override var active: Boolean = false
 }
 ```
 
@@ -131,8 +131,8 @@ immutable 객체의 단점 : 변경할 수 없음
 
 ```kotlin
 data class User(
-		val name: String,
-		val surname: String
+    val name: String,
+    val surname: String
 )
 
 var user = User("Maja", "Markiewicz")
@@ -175,7 +175,7 @@ mutable 리스트 대신 mutable 프로퍼티를 사용하는 형태는 사용�
 
 ```kotlin
 var names by Delegates.observable(listOf<String>()) { _, old, new ->
-		println("Names changed from $old to $new")
+    println("Names changed from $old to $new")
 }
 
 names += "Fabio"
@@ -201,7 +201,7 @@ class UserRepository {
 	private val storedUsers: MutableMap<Int, String> = mutableMapOf()
 
     fun loadAll(): MutableMap<Int, String> {
-	    	return storedUsers
+        return storedUsers
     }
     
     // ...
@@ -224,10 +224,10 @@ loadAll을 사용해서 private 상태인 UserRepository를 수정할 수 있는
 
 ```kotlin
 class UserRepository {
-		private val user: MutableUser()
+    private val user: MutableUser()
 
     fun get(): MutableUser {
-	    	return user.copy()
+        return user.copy()
     }
     
     // ...
@@ -245,7 +245,7 @@ class UserRepository {
 	private val storedUsers: MutableMap<Int, String> = mutableMapOf()
 
     fun loadAll(): Map<Int, String> {
-	    	return storedUsers
+        return storedUsers
     }
     
     // ...

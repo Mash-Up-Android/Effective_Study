@@ -18,19 +18,19 @@
 // 나쁜 예
 var user: User
 for (i in users.indices) {
-		user = users[i]
+    user = users[i]
     println("User at $i is $user")
 }
 
 // 조금 더 좋은 예
 for (i in users.indices) {
-		val user = users[i]
+    val user = users[i]
     println("User at $i is $user")
 }
 
 // 제일 좋은 예
 for ((i, user) in users.withIndex()) {
-		println("User at $i is $user")
+    println("User at $i is $user")
 }
 ```
 
@@ -57,7 +57,7 @@ for ((i, user) in users.withIndex()) {
 var numbers = (2..100).toList()
 val primes = mutableListOf<Int>()
 while (numbers.isNotEmpty()) {
-		val prime = numbers.first()
+    val prime = numbers.first()
     primes.add(prime)
     numbers = numbers.filter { it % prime != 0 }
 }
@@ -70,7 +70,7 @@ print(primes)
 
 ```kotlin
 val primes: Sequence<Int> = sequence {
-	var numbers = generateSequence(2) { it + 1 }
+    var numbers = generateSequence(2) { it + 1 }
 
     while (true) {
     	val prime = numbers.first()
@@ -87,11 +87,11 @@ print(primes.take(10).toList())
 
 ```kotlin
 val primes: Sequence<Int> = sequence {
-		var numbers = generateSequence(2) { it + 1 }
+    var numbers = generateSequence(2) { it + 1 }
 
     var prime: Int
     while (true) {
-	    	prime = numbers.first()
+        prime = numbers.first()
         yield(prime)
         numbers = numbers.drop(1).filter { it % prime != 0 }
     }
