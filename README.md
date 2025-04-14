@@ -40,6 +40,7 @@
 - [item5.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/item5.md)
 - [item6.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/item6.md)
 - [item7.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/item7.md)
+- [item8.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/item8.md)
 
 
 
