@@ -32,6 +32,7 @@
 - [item09_use를_사용하여_리소스를_닫아라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item09_use를_사용하여_리소스를_닫아라.md)
 - [item10_단위_테스트를_만들어라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item10_단위_테스트를_만들어라.md)
 ### 재훈
+- [chapter1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/chapter1.md)
 - [item01.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item01.md)
 - [item02.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item02.md)
 - [item03.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item03.md)
