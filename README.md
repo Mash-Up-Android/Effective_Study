@@ -44,6 +44,7 @@
 - [item08.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_가독성/item08.md)
 - [item09.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_가독성/item09.md)
 - [item10.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_가독성/item10.md)
+- [테스트_홍보_추가글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_가독성/테스트_홍보_추가글.md)
 
 
 
