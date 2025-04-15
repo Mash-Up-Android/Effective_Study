@@ -23,6 +23,6 @@
 ## 테스트를 짜기 이전에 테스트를 위한 구조를 구축하여 비용을 줄이자
 
 ## 단위 테스트 관련 장점 홍보글
-기존에 써놨던 테스트 진흥 문서이다.  
+기존에 써놨던 [테스트 진흥 문서](https://github.com/Mash-Up-Android/Effective_Study/blob/main/docs/EffectiveKotlin/%EC%B0%BD%ED%99%98/1%EC%9E%A5_%EA%B0%80%EB%8F%85%EC%84%B1/%ED%85%8C%EC%8A%A4%ED%8A%B8_%ED%99%8D%EB%B3%B4_%EC%B6%94%EA%B0%80%EA%B8%80.md)이다.  
 테스트를 짜면서 체감되는 장점을 쭉써놨는데 식견이 짧은 나지만 뭐 당장 단위테스트를 짤 이유는 충분히 설명된다고 생각한다.  
-
+심심하다면 한번 봐보자
