@@ -20,6 +20,8 @@
 - [item8.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item8.md)
 - [item9.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item9.md)
 ### 재성
+- [1장_독후감.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/1장_독후감.md)
+- [item10_단위_테스트를_만들어라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item10_단위_테스트를_만들어라.md)
 - [item1_가변성을_제한하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item1_가변성을_제한하라.md)
 - [item2_변수의_스코프를_최소화하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item2_변수의_스코프를_최소화하라.md)
 - [item3_최대한_플랫폼_타입을_사용하지_말라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item3_최대한_플랫폼_타입을_사용하지_말라.md)
@@ -27,6 +29,8 @@
 - [item5_예외를_활용해_코드에_제한을_걸어라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item5_예외를_활용해_코드에_제한을_걸어라.md)
 - [item6_사용자_정의_오류보다는_표준오류를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item6_사용자_정의_오류보다는_표준오류를_사용하라.md)
 - [item7_결과_부족이_발생할_경우_null과_Failure를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item7_결과_부족이_발생할_경우_null과_Failure를_사용하라.md)
+- [item8_적절하게_null을_처리하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item8_적절하게_null을_처리하라.md)
+- [item9_use를_사용하여_리소스를_닫아라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item9_use를_사용하여_리소스를_닫아라.md)
 ### 재훈
 - [item1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item1.md)
 - [item2.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item2.md)
