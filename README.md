@@ -45,6 +45,10 @@
 - [item08.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item08.md)
 - [item09.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item09.md)
 - [item10.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item10.md)
+- [item11.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item11.md)
+- [item12.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item12.md)
+- [item13.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item13.md)
+- [item14.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item14.md)
 ### 창환
 ### 1장_안정성
 - [1장_소감문.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_안정성/1장_소감문.md)
