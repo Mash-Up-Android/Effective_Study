@@ -21,6 +21,8 @@
 - [item10.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item10.md)
 - [item11.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item11.md)
 - [item12.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item12.md)
+- [item13.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item13.md)
+- [item14.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item14.md)
 ### 재성
 - [1장_독후감.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/1장_독후감.md)
 - [item01_가변성을_제한하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/item01_가변성을_제한하라.md)
