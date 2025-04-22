@@ -107,18 +107,7 @@ students.filter{}.joinToString{}.let(::print)
 ```
 
 - 데코레이터를 사용해 객체를 랩핑할 때
-
-```kotlin
-data class Person(val name: String, val age: Int)
-
-val person: Person? = Person("Alice", 30)
-
-person?.let {
-    println("Name: ${it.name}")
-    println("Age: ${it.age}")
-}
-
-```
+https://refactoring.guru/ko/design-patterns/decorator
 
 `let`을 사용하여 `person` 객체가 null이 아닐 때만 이름과 나이를 출력하는 작업
 
