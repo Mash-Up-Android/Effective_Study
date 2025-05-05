@@ -79,7 +79,7 @@ ps. 근데 코틀린 커스텀 getter setter가 getter setter 라고 할수 있�
 
 이때 제이슨이 말씀해주신 내용이 좀 이런것들을 푸는 키워드인것 같긴하다.(객체는 계약에의해 작동해야한다.)  
 그때 받은 객체관련글 여기다 넣어놓고 두고 두고 읽어야겠다 스레드는 3개월밖에 못사니까 ㅠㅠ  
-[객체 관련글](https://woowacourse.slack.com/archives/C06FHH1PYV9/p1740664534504829?thread_ts=1740638295.654259&cid=C06FHH1PYV9)
+[객체 관련글](https://codingnuri.com/seven-virtues-of-good-object/)
 
 근데 커스텀 getter, setter에 로직같은게 들어가도 코틀린은 언어단에서 너무 유명하게 설정해놨으니 사실상 계약이라고 봐도 무방하지 않을까?  
 (뭐 서로 통하면 장땡 아니겠는가?)  
