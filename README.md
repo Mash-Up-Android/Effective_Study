@@ -45,6 +45,10 @@
 - [item12_연산자_오버로드를_할_때는_의미에_맞게_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item12_연산자_오버로드를_할_때는_의미에_맞게_사용하라.md)
 - [item13_Unit?을_리턴하지_말라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item13_Unit?을_리턴하지_말라.md)
 - [item14_변수_타입이_명확하지_않은_경우_확실하게_지정하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item14_변수_타입이_명확하지_않은_경우_확실하게_지정하라.md)
+- [item15_리시버를_명시적으로_참조하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item15_리시버를_명시적으로_참조하라.md)
+- [item16_프로퍼티는_동작이_아니라_상태를_나타내야_한다.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item16_프로퍼티는_동작이_아니라_상태를_나타내야_한다.md)
+- [item17_이름_있는_아규먼트를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item17_이름_있는_아규먼트를_사용하라.md)
+- [item18_코딩_컨벤션을_지켜라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item18_코딩_컨벤션을_지켜라.md)
 ### 재훈
 - [chapter1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/chapter1.md)
 - [item01.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/item01.md)
