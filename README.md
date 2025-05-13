@@ -49,6 +49,10 @@
 - [item16_프로퍼티는_동작이_아니라_상태를_나타내야_한다.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item16_프로퍼티는_동작이_아니라_상태를_나타내야_한다.md)
 - [item17_이름_있는_아규먼트를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item17_이름_있는_아규먼트를_사용하라.md)
 - [item18_코딩_컨벤션을_지켜라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter02_가독성/item18_코딩_컨벤션을_지켜라.md)
+### Chapter03_재사용성
+- [item19_knowledge를_반복하여_사용하지_말라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item19_knowledge를_반복하여_사용하지_말라.md)
+- [item20_일반적인_알고리즘을_반복해서_구현하지_말라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item20_일반적인_알고리즘을_반복해서_구현하지_말라.md)
+- [item21_일반적인_프로퍼티_패턴은_프로퍼티_위임으로_만들어라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item21_일반적인_프로퍼티_패턴은_프로퍼티_위임으로_만들어라.md)
 ### 재훈
 ### Chapter01_안정성
 - [chapter1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter01_안정성/chapter1.md)
