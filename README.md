@@ -27,6 +27,9 @@
 - [item16.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item16.md)
 - [item17.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item17.md)
 - [item18.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item18.md)
+- [item19.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item19.md)
+- [item20.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item20.md)
+- [item21.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/item21.md)
 ### 재성
 ### Chapter01_안정성
 - [1장_독후감.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter01_안정성/1장_독후감.md)
@@ -104,6 +107,7 @@
 - [item18.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/2장_가독성/item18.md)
 - [머리글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/2장_가독성/머리글.md)
 ### 3장_재사용성
+- [item 21.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/item 21.md)
 - [item19.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/item19.md)
 - [item20.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/item20.md)
 - [머리글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/머리글.md)
