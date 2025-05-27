@@ -63,6 +63,8 @@
 - [item21_일반적인_프로퍼티_패턴은_프로퍼티_위임으로_만들어라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item21_일반적인_프로퍼티_패턴은_프로퍼티_위임으로_만들어라.md)
 - [item22_일반적인_알고리즘을_구현할_때_제네릭을_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item22_일반적인_알고리즘을_구현할_때_제네릭을_사용하라.md)
 - [item23_타입_파라미터의_섀도잉을_피하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item23_타입_파라미터의_섀도잉을_피하라.md)
+- [item24_제네릭_타입과_variance_한정자를_활용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item24_제네릭_타입과_variance_한정자를_활용하라.md)
+- [item25_공통_모듈을_추출해서_여러_플랫폼에서_재사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item25_공통_모듈을_추출해서_여러_플랫폼에서_재사용하라.md)
 ### 재훈
 ### Chapter01_안정성
 - [chapter1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter01_안정성/chapter1.md)
