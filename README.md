@@ -98,6 +98,7 @@
 - [item23.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter03_재사용성/item23.md)
 - [item24.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter03_재사용성/item24.md)
 - [item25.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter03_재사용성/item25.md)
+- [item26.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter03_재사용성/item26.md)
 ### 창환
 ### 1장_안정성
 - [1장_소감문.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_안정성/1장_소감문.md)
