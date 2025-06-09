@@ -38,6 +38,10 @@
 - [item24-1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter03_재사용성/item24-1.md)
 - [item24.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter03_재사용성/item24.md)
 - [item25.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter03_재사용성/item25.md)
+### Chapter04_추상화_설계
+- [item27.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item27.md)
+- [item28.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item28.md)
+- [item29.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item29.md)
 ### 재성
 ### Chapter01_안정성
 - [1장_독후감.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter01_안정성/1장_독후감.md)
