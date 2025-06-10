@@ -74,6 +74,8 @@
 - [item25_공통_모듈을_추출해서_여러_플랫폼에서_재사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter03_재사용성/item25_공통_모듈을_추출해서_여러_플랫폼에서_재사용하라.md)
 ### Chapter04_추상화_설계
 - [item26_함수_내부의_추상화_레벨을_통일하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item26_함수_내부의_추상화_레벨을_통일하라.md)
+- [item27_변화로부터_코드를_보호하려면_추상화를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item27_변화로부터_코드를_보호하려면_추상화를_사용하라.md)
+- [item29_외부_API를_랩해서_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item29_외부_API를_랩해서_사용하라.md)
 - [서론.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/서론.md)
 ### 재훈
 ### Chapter01_안정성
