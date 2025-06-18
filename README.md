@@ -43,6 +43,8 @@
 - [item28.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item28.md)
 - [item29.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item29.md)
 - [item30.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item30.md)
+- [item31.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item31.md)
+- [item32.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/아린/Chapter04_추상화_설계/item32.md)
 ### 재성
 ### Chapter01_안정성
 - [1장_독후감.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter01_안정성/1장_독후감.md)
@@ -78,6 +80,9 @@
 - [item27_변화로부터_코드를_보호하려면_추상화를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item27_변화로부터_코드를_보호하려면_추상화를_사용하라.md)
 - [item28_API_안정성을_확보하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item28_API_안정성을_확보하라.md)
 - [item29_외부_API를_랩해서_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item29_외부_API를_랩해서_사용하라.md)
+- [item30_요소의_가시성을_최소화하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item30_요소의_가시성을_최소화하라.md)
+- [item31_문서를_규약으로_정의하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item31_문서를_규약으로_정의하라.md)
+- [item32_추상화_규약을_지켜라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item32_추상화_규약을_지켜라.md)
 - [서론.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/서론.md)
 ### 재훈
 ### Chapter01_안정성
