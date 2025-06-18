@@ -113,6 +113,9 @@
 - [item27.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item27.md)
 - [item28.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item28.md)
 - [item29.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item29.md)
+- [item30.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item30.md)
+- [item31.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item31.md)
+- [item32.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter04_추상화_설계/item32.md)
 ### 창환
 ### 1장_안정성
 - [1장_소감문.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/1장_안정성/1장_소감문.md)
