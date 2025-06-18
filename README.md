@@ -145,8 +145,8 @@
 - [item23.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/item23.md)
 - [머리글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/3장_재사용성/머리글.md)
 ### 4장_추상화_설계
-- [item 27.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item 27.md)
 - [item26.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item26.md)
+- [item27.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item27.md)
 - [item28.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item28.md)
 - [item29.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item29.md)
 - [머리글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/머리글.md)
