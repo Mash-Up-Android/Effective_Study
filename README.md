@@ -159,6 +159,8 @@
 - [item28.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item28.md)
 - [item29.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/item29.md)
 - [머리글.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/4장_추상화_설계/머리글.md)
+### 5장_객체생성
+- [item33.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/창환/5장_객체생성/item33.md)
 
 
 
