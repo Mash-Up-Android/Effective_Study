@@ -86,6 +86,8 @@
 - [item31_문서를_규약으로_정의하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item31_문서를_규약으로_정의하라.md)
 - [item32_추상화_규약을_지켜라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/item32_추상화_규약을_지켜라.md)
 - [서론.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter04_추상화_설계/서론.md)
+### Chapter05_객체_생성
+- [item33_생성자_대신_팩토리_함수를_사용하라.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재성/Chapter05_객체_생성/item33_생성자_대신_팩토리_함수를_사용하라.md)
 ### 재훈
 ### Chapter01_안정성
 - [chapter1.md](https://github.com/Mash-Up-Android/Effective_Study/tree/main/docs/EffectiveKotlin/재훈/Chapter01_안정성/chapter1.md)
